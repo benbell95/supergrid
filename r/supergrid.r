@@ -19,7 +19,7 @@
 ### See README.md file for usage. Arguments listed below. Full guide also available on my blog (coming soon).
 
 ### Create "themes" by supplying arguments as a list object, and using: do.call(supergrid, theme)
-### Pre-made themes available here: 
+### Pre-made themes available here: https://raw.githubusercontent.com/benbell95/supergrid/refs/heads/main/r/supergrid_themes.r
 
 ########################################
 ### Arguments / details
