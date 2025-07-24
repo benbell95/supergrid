@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 692.7 260.7">
+  <defs>
+    <path id="a" d="M14.4 14.4h691.2v259.2H14.4z"/>
+  </defs>
+  <g class="svglite" transform="translate(-13.65 -13.65)">
+    <defs>
+      <clipPath id="c">
+        <path d="M0 0h720v576H0z"/>
+      </clipPath>
+    </defs>
+    <defs>
+      <clipPath id="b">
+        <use xlink:href="#a"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#b)">
+      <use xlink:href="#a" style="fill:#000;stroke:none;stroke-width:.75"/>
+      <path d="M14.4 240h691.2" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 249.6h691.2" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 259.2h691.2" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 268.8h691.2" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 220.8h691.2" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 211.2h691.2" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 201.6h691.2" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 192h691.2" style="stroke:#30f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 182.4h691.2" style="stroke:#c0f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 172.8h691.2" style="stroke:#f09;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 163.2h691.2" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 153.6h691.2" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 144h691.2" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 124.8h691.2" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 115.2h691.2" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 105.6h691.2" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 96h691.2" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 86.4h691.2" style="stroke:#30f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 76.8h691.2" style="stroke:#c0f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 67.2h691.2" style="stroke:#f09;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 57.6h691.2" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 48h691.2" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 28.8h691.2" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 19.2h691.2" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M96.89 273.6V14.4" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M82.67 273.6V14.4" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M68.44 273.6V14.4" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M54.22 273.6V14.4" style="stroke:#30f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M40 273.6V14.4" style="stroke:#c0f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M25.78 273.6V14.4" style="stroke:#f09;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M125.33 273.6V14.4" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M139.56 273.6V14.4" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M153.78 273.6V14.4" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M168 273.6V14.4" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M182.22 273.6V14.4" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M196.44 273.6V14.4" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M210.67 273.6V14.4" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M224.89 273.6V14.4" style="stroke:#30f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M239.11 273.6V14.4" style="stroke:#c0f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M267.56 273.6V14.4" style="stroke:#f09;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M281.78 273.6V14.4" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M296 273.6V14.4" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M310.22 273.6V14.4" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M324.44 273.6V14.4" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M338.67 273.6V14.4" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M352.89 273.6V14.4" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M367.11 273.6V14.4" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M381.33 273.6V14.4" style="stroke:#30f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M409.78 273.6V14.4" style="stroke:#c0f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M424 273.6V14.4" style="stroke:#f09;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M438.22 273.6V14.4" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M452.44 273.6V14.4" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M466.67 273.6V14.4" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M480.89 273.6V14.4" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M495.11 273.6V14.4" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M509.33 273.6V14.4" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M523.56 273.6V14.4" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M552 273.6V14.4" style="stroke:#30f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M566.22 273.6V14.4" style="stroke:#c0f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M580.44 273.6V14.4" style="stroke:#f09;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M594.67 273.6V14.4" style="stroke:red;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M608.89 273.6V14.4" style="stroke:#f90;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M623.11 273.6V14.4" style="stroke:#cf0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M637.33 273.6V14.4" style="stroke:#3f0;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M651.56 273.6V14.4" style="stroke:#0f6;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M665.78 273.6V14.4" style="stroke:#0ff;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M694.22 273.6V14.4" style="stroke:#06f;stroke-width:.75;stroke-opacity:.6"/>
+      <path d="M14.4 230.4h691.2" style="stroke:red;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M14.4 134.4h691.2" style="stroke:#f90;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M14.4 38.4h691.2" style="stroke:#cf0;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M111.11 273.6V14.4" style="stroke:#3f0;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M253.33 273.6V14.4" style="stroke:#0f6;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M395.56 273.6V14.4" style="stroke:#0ff;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M537.78 273.6V14.4" style="stroke:#06f;stroke-width:1.5;stroke-opacity:.9"/>
+      <path d="M680 273.6V14.4" style="stroke:#30f;stroke-width:1.5;stroke-opacity:.9"/>
+      <text x="116.44" y="287.24" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff001f" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="121.78" y="284.36" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff003d" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="127.11" y="281.48" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff005c" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="132.44" y="278.6" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff007a" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="137.78" y="275.72" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#f09" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="143.11" y="272.84" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff00b8" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="148.44" y="269.96" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff00d6" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="153.78" y="267.08" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff00f5" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="159.11" y="264.2" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#eb00ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="164.44" y="261.32" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#c0f" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="169.78" y="258.44" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ad00ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="175.11" y="255.56" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#8f00ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="180.44" y="252.68" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#7000ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="185.78" y="249.8" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#5200ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="191.11" y="246.92" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#30f" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="196.44" y="244.04" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#1400ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="201.78" y="241.16" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#000aff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="207.11" y="238.28" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#0029ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="212.44" y="235.4" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#0047ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="217.78" y="232.52" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#06f" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="223.11" y="229.64" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#0085ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="228.44" y="226.76" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00a3ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="233.78" y="223.88" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00c2ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="239.11" y="221" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00e0ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="244.44" y="218.12" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#0ff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="249.78" y="215.24" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ffe0" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="255.11" y="212.36" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ffc2" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="260.44" y="209.48" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ffa3" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="265.78" y="206.6" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ff85" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="271.11" y="203.72" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#0f6" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="276.44" y="200.84" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ff47" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="281.78" y="197.96" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ff29" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="287.11" y="195.08" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#00ff0a" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="292.44" y="192.2" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#14ff00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="297.78" y="189.32" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#3f0" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="303.11" y="186.44" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#52ff00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="308.44" y="183.56" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#70ff00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="313.78" y="180.68" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#8fff00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="319.11" y="177.8" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#adff00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="324.44" y="174.92" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#cf0" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="329.78" y="172.04" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ebff00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="335.11" y="169.16" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#fff500" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="340.44" y="166.28" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ffd600" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="345.78" y="163.4" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ffb800" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="351.11" y="160.52" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#f90" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="356.44" y="157.64" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff7a00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="361.78" y="154.76" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff5c00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="367.11" y="151.88" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff3d00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="372.44" y="149" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#ff1f00" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="377.78" y="146.12" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:red" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+      <text x="377.78" y="146.12" lengthAdjust="spacingAndGlyphs" style="font-style:italic;font-weight:700;font-size:48px;font-family:&quot;Liberation Sans&quot;;fill:#fff" text-anchor="middle" textLength="285.42">SUPERGRID</text>
+    </g>
+    <g clip-path="url(#c)">
+      <path d="M14.4 273.6h691.2V14.4H14.4z" style="stroke:#32cd32;stroke-width:1.5;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+    </g>
+  </g>
+</svg>
