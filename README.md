@@ -58,7 +58,7 @@ points(x)
 
 This will result in a plot with a grid using the default settings, but these can be customised.
 
-Image here
+![supergrid_basic](https://github.com/user-attachments/assets/3f9ad545-0907-4c18-8615-db7d3f3a202b)
 
 Other plot types may vary in their usage. You can use the `panel.first` argument with histograms and stripcharts, although it will give you a warning message (which can be ignored).
 
@@ -281,7 +281,7 @@ invisible(lapply(1:3, \(x) do.call(supergrid, sg_tron[[x]])))
 barplot(x, add=TRUE, col=adjustcolor(colorRampPalette(c("lightblue", "skyblue3"))(10), 0.9), las=1, cex.axis=1.5)
 ```
 
-Image
+![supergrid_barplot_tron](https://github.com/user-attachments/assets/3d672a80-e647-446e-a2fc-3242c12655b7)
 
 ## Further examples and help
 
