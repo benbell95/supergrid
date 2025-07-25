@@ -98,6 +98,8 @@ If you only wish to obtain the position of the grid lines (and not plot), create
 sg <- supergrid(plot=FALSE)
 ```
 
+This function is designed for use with base graphics. It does not work with ggplot2, or other 'grid' graphics based packages.
+
 ## Arguments
 
 Details for the available arguments are shown in the table below. 
